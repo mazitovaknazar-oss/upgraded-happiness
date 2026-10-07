@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> Все танки игры Мира танков </title>
+</head>
+<body bgcolor="#FFFFFF"text="#333333"link="#669900"vlink="#666666">alink="#00FF00">
+<h4 align="center"font color="#990000">ссылка</font></h4>
+<div align="center">
+<ul>
+<div align="left"><a href="ind1.html">Ссылка 1</a></div>
+<li>
+<li>
+<div align="left"><a href="ind1.html">Ссылка 2</a></div>
+</ul>
+</div>
+</body>
+</P></P>
+</html>
